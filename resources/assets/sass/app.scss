@@ -6,4 +6,11 @@
 @import "variables";
 
 // Bootstrap
-@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+@import "~bootstrap/scss/bootstrap";
+
+//Font Awesome
+@import "~font-awesome/scss/font-awesome.scss";
+
+$theme-colors: (
+  "primary": #666666
+);

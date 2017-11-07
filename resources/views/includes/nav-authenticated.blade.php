@@ -1,10 +1,10 @@
-<a class="navbar-brand" href="/home">EOW</a>
+<a class="navbar-brand" data-toggle="collapse" data-target="#navLeft"  aria-expanded="true" id="brand" aria-controls="navLeft" href="/home">EOW</a>
 
-<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main">
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
     <span class="navbar-toggler-icon"></span>
 </button>
 
-<div class="navbar-collapse collapse" id="main">
+<div class="navbar-collapse collapse" id="navbar">
   <ul class="navbar-nav">
     <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
